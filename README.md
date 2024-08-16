@@ -8,6 +8,12 @@ yarn
 
 # Usage
 
+Compile:
+
+```
+yarn hardhat compile
+```
+
 Deploy:
 
 ```
